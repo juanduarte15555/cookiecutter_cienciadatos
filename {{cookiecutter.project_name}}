@@ -1,1 +1,1 @@
-{{cookiecutter.Mi_primer_proyecto}}/README.md
+{{cookiecutter.project_name}}/README.md
